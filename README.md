@@ -6,6 +6,7 @@
 Web Development. Systems first, clean interfaces second.
 
 <a href="https://www.eternaldev.ch"><img src="https://img.shields.io/badge/Visit_my_website-eternaldev.ch-fe3a00?style=for-the-badge&logo=brave&logoColor=eaeaea&labelColor=0d0e0e" alt="Visit my website"></a>
+<a href="mailto:info@eternaldev.ch"><img src="https://img.shields.io/badge/Email-info%40eternaldev.ch-5f9ea0?style=for-the-badge&logo=gmail&logoColor=eaeaea&labelColor=121313" alt="Email info@eternaldev.ch"></a>
 
 ![Stack](https://skillicons.dev/icons?i=js,html,css,git,github)
 
@@ -51,7 +52,7 @@ Bachelor of Science in Web Development (in progress), Switzerland.
 
 
 <div align="center">
-<pre style="letter-spacing: 5px;">
+<pre style="font-size: 9px; letter-spacing: 0;">
                                              ##*                                                                                
                                           #++##******+*                                                                         
                                          ##*++*#+++*++++++++++#+                                                                
@@ -121,10 +122,8 @@ Bachelor of Science in Web Development (in progress), Switzerland.
                         @%%%@%%%%%%%%@%@%%%%@@@@@@@@@%%%%%% %%%%%   %####%#%%%@@@@@%@@@%%                                       
                         %%%%%%@%%%%%%%%@@@@@%                                    %%%#          
 </pre>
-<table align="center" width="55%">
-  <tr>
-    <td align="left"><h3>Niklas Naeff</h3></td>
-    <td align="right"><h3>eternalDev</h3></td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; width: 80ch; max-width: 100%; margin: 0 auto; font-size: 9px;">
+  <strong style="font-size: 1.8em;">Niklas Naeff</strong>
+  <strong style="font-size: 1.8em;">eternalDev</strong>
+</div>
 </div>
