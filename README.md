@@ -1,6 +1,5 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=EAEAEA&center=true&vCenter=true&width=435&lines=Hallo!;Bonjour!;Ciao!;Allegra!" alt="Grüezi! Bonjour! Ciao! Allegra!"></h2>
-
-<h1 align="center"> eternalDev </h1>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=EAEAEA&center=true&vCenter=true&width=435&lines=Hallo!;Bonjour!;Ciao!;Allegra!" alt="Grüezi! Bonjour! Ciao! Allegra!"></div>
+<h1 align="center">eternalDev</h1>
 
 <div align="center">
 
@@ -10,14 +9,12 @@ Web Development. Systems first, clean interfaces second.
 
 ![Stack](https://skillicons.dev/icons?i=js,html,css,git,github)
 
-</div>
-
-<center>
 <a href="https://www.linkedin.com/in/niklas-naeff-baa920443/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"></a>
 <a href="https://discord.gg/aXktXPrN7G"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="48"></a>
 <a href="https://www.instagram.com/eternaldev.ch/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48"></a>
 <a href="https://x.com/eternalDevxyz"><img src="https://skillicons.dev/icons?i=twitter" alt="X" width="48"></a>
-</center>
+
+</div>
 
 ## About me
 
@@ -123,6 +120,11 @@ Bachelor of Science in Web Development (in progress), Switzerland.
                         %%%%%%%%%%%%%%%%%%@@%@@@@%@@@@@@@@@@@@@@%%%###%%%%##%@@@@@@@@@@%@@%%%%%%%%%%#                           
                         @%%%@%%%%%%%%@%@%%%%@@@@@@@@@%%%%%% %%%%%   %####%#%%%@@@@@%@@@%%                                       
                         %%%%%%@%%%%%%%%@@@@@%                                    %%%#          
-Niklas Naeff                                                          eternalDev
 </pre>
+<table align="center" width="55%">
+  <tr>
+    <td align="left"><h3>Niklas Naeff</h3></td>
+    <td align="right"><h3>eternalDev</h3></td>
+  </tr>
+</table>
 </div>
