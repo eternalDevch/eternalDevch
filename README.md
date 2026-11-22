@@ -52,7 +52,7 @@ Bachelor of Science in Web Development (in progress), Switzerland.
 
 
 <div align="center">
-<pre style="font-size: 9px; letter-spacing: 0;">
+<pre style="font-size: 9px; letter-spacing: 5px;">
                                              ##*                                                                                
                                           #++##******+*                                                                         
                                          ##*++*#+++*++++++++++#+                                                                
@@ -122,7 +122,7 @@ Bachelor of Science in Web Development (in progress), Switzerland.
                         @%%%@%%%%%%%%@%@%%%%@@@@@@@@@%%%%%% %%%%%   %####%#%%%@@@@@%@@@%%                                       
                         %%%%%%@%%%%%%%%@@@@@%                                    %%%#          
 </pre>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 80ch; max-width: 100%; margin: 0 auto; font-size: 9px;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; font-size: 9px;">
   <strong style="font-size: 1.8em;">Niklas Naeff</strong>
   <strong style="font-size: 1.8em;">eternalDev</strong>
 </div>
