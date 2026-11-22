@@ -52,5 +52,5 @@ Bachelor of Science in Web Development (in progress), Switzerland.
 
 
 <div align="center">
-<img src="./assets/ascii-art.svg" alt="ASCII artwork with Niklas Naeff and eternalDev" width="20%">
+<img src="./assets/ascii-art.svg" alt="ASCII artwork with Niklas Naeff and eternalDev" width="60%">
 </div>
