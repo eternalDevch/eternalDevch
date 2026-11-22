@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=EAEAEA&center=true&vCenter=true&width=435&lines=Grüezi!;Bonjour!;Ciao!;Allegra!" alt="Grüezi! Bonjour! Ciao! Allegra!"></div>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;duration=2500&amp;pause=900&amp;color=EAEAEA&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Gr%C3%BCezi!%3BBonjour!%3BCiao!%3BAllegra!" alt="Rotating greetings: Grüezi, Bonjour, Ciao, Allegra"></p>
 <h1 align="center">eternalDev</h1>
 
 <div align="center">
@@ -52,5 +52,5 @@ Bachelor of Science in Web Development (in progress), Switzerland.
 
 
 <div align="center">
-<img src="./assets/ascii-art.svg" alt="ASCII artwork with Niklas Naeff and eternalDev" width="60%">
+<img src="https://raw.githubusercontent.com/eternalDevch/eternalDevch/main/assets/ascii-art.svg" alt="ASCII artwork with Niklas Naeff and eternalDev" width="60%">
 </div>
