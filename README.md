@@ -1,4 +1,4 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=EAEAEA&center=true&vCenter=true&width=435&lines=Hallo!;Bonjour!;Ciao!;Allegra!" alt="Grüezi! Bonjour! Ciao! Allegra!"></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=EAEAEA&center=true&vCenter=true&width=435&lines=Grüezi!;Bonjour!;Ciao!;Allegra!" alt="Grüezi! Bonjour! Ciao! Allegra!"></div>
 <h1 align="center">eternalDev</h1>
 
 <div align="center">
