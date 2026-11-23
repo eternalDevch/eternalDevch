@@ -3,7 +3,7 @@
 
 <div align="center">
 
-Less Less isn't empty
+  Less isn't empty
 
 <a href="https://www.eternaldev.ch"><img src="https://img.shields.io/badge/Visit_my_website-eternaldev.ch-fe3a00?style=for-the-badge&logo=brave&logoColor=eaeaea&labelColor=0d0e0e" alt="Visit my website"></a>
 <a href="mailto:info@eternaldev.ch"><img src="https://img.shields.io/badge/Email-info%40eternaldev.ch-5f9ea0?style=for-the-badge&logo=gmail&logoColor=eaeaea&labelColor=121313" alt="Email info@eternaldev.ch"></a>
